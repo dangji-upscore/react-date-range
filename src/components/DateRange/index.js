@@ -141,7 +141,7 @@ class DateRange extends Component {
           this.calendar = target;
         }}
       />
-    )
+    );
   }
 }
 
